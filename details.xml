@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Information>
+    <Education>
+        <University>
+            <Programme>Bachelor of Technology</Programme>
+            <Year>2019-2023</Year>
+            <Name>Tezpur University</Name>
+            <State>Assam</State>
+            <Department>Computer Science And Engineering</Department>
+            <Percentage>CGPA:7.45</Percentage>
+        </University>
+        <SeniorSecondary>
+            <Name>RD JUNIOR COLLEGE</Name>
+            <State>Digboi,Assam</State>
+            <Percentage>71.80%</Percentage>
+        </SeniorSecondary>
+        <HigherSecondary>
+            <Name>Nehru Children School</Name>
+            <State>Digboi,Assam</State>
+            <Percentage>75%</Percentage>
+       </HigherSecondary>
+    </Education>
+    <Certification>
+        <Name>The complete 2022 Web Development Bootcamp - Udemy</Name>
+        <Author>Dr. Angela Yu</Author>
+    </Certification>
+    <Languages>
+        <Name>1.English</Name>
+        <Name>2.Hindi</Name>
+        <Name>3.Assamese</Name>
+    </Languages>
+    <Extracurricular>
+        <Name>1.NSS Volunteer</Name>
+        <Name>2. Gyanmalini Volunteer</Name>
+        <Name>3.Social Service Convenor of TUSC</Name>
+        <Name>4.Sports(Cricket, Volleyball)</Name>
+    </Extracurricular>
+    <Profile>
+        <MyName>Rupam Sah</MyName>
+    </Profile>
+</Information>
